@@ -1,2 +1,3 @@
 # The pod name
 Name: my-alpine
+Namespace: common-delivery
